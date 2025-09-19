@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Ana-stasiya</h1>
 # 💫 hi, I'm Nastya
 I'm currently working on company that creates software for the country’s insurance companies with MS Sql Server<br>I'm looking to collaborate to improve my web development skills<br>I'm currently learning JS<br>
 
