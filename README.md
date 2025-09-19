@@ -11,5 +11,5 @@ I'm currently working on company that creates software for the country’s insur
 ![](https://github-readme-stats.vercel.app/api?username=ana-stasiya&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ana-stasiya&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-stasiya&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-stasiya&stats_format=bytes)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
