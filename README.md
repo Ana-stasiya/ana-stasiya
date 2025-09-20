@@ -1,4 +1,4 @@
-![MasterHead](https://livedune.com/ru/blog/images/tild3663-3064-4765-a362-333631323537__bage_3.png)
+![MasterHead](https://i.pinimg.com/originals/1c/e4/b0/1ce4b0c686524558298af1245dfc7490.jpg)
 
 <h1 align="center">Hi 👋, I'm Anastasiya</h1>
 
