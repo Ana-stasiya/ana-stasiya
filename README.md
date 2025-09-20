@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anastasiya</h1>
 
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif">
 
 I'm currently working on company that creates software for the country’s insurance companies with MS Sql Server<br>
 
