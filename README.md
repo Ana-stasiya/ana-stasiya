@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif">
 
-I'm currently working on company that creates software for the country’s insurance companies with MS Sql Server<br>
-
 I'm looking to collaborate to improve my web development skills<br>
 
 I'm currently learning JS<br>
