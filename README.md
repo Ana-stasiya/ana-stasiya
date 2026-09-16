@@ -28,16 +28,26 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) -->
 
 <h3 align="left">💻 Languages and Tools</h3>
-### 💻 Стек технологий & Инструменты
+<p align="left">
+  <!-- C# -->
+  <img src="https://shields.io" alt="C#"/>
+  <!-- .NET -->
+  <img src="https://shields.io" alt=".NET"/>
+  <!-- MS SQL Server -->
+  <img src="https://shields.io" alt="MS SQL Server"/>
+  <!-- EF Core -->
+  <img src="https://shields.io" alt="EF Core"/>
+</p>
 
 <p align="left">
-  <img src="https://shields.io" alt="C#"/>
-  <img src="https://shields.io" alt=".NET"/>
-  <img src="https://shields.io" alt="MS SQL Server"/>
-  <img src="https://shields.io" alt="EF Core"/>
+  <!-- Git -->
   <img src="https://shields.io" alt="Git"/>
+  <!-- Docker -->
   <img src="https://shields.io" alt="Docker"/>
+  <!-- WebAPI -->
+  <img src="https://shields.io" alt="Web API"/>
 </p>
+
 
 ---
 
