@@ -4,9 +4,10 @@
 
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif">
 
-I'm looking to collaborate to improve my web development skills<br>
+Бэкенд-разработчик со специализацией в **.NET** и проектировании баз данных **MS SQL Server**. 
 
-I'm currently learning JS<br>
+Имею коммерческий опыт работы в сфере **FinTech / InsurTech** (автоматизация страхования). Благодаря бэкграунду в бизнес-анализе (`Master of Business Analysis`), я умею не просто писать код по ТЗ, а глубоко погружаться в бизнес-логику продукта, проектировать архитектуру баз данных под сложные финансовые процессы и говорить с бизнесом на одном языке.
+
 
 
 ## 🌐 Socials
@@ -27,9 +28,26 @@ I'm currently learning JS<br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) -->
 
 <h3 align="left">💻 Languages and Tools</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+p align="left">
+  <!-- C# -->
+  <img src="https://shields.io" alt="C#"/>
+  <!-- .NET -->
+  <img src="https://shields.io" alt=".NET"/>
+  <!-- MS SQL Server -->
+  <img src="https://shields.io" alt="MS SQL Server"/>
+  <!-- EF Core -->
+  <img src="https://shields.io" alt="EF Core"/>
+</p>
+
+<p align="left">
+  <!-- Git -->
+  <img src="https://shields.io" alt="Git"/>
+  <!-- Docker -->
+  <img src="https://shields.io" alt="Docker"/>
+  <!-- WebAPI -->
+  <img src="https://shields.io" alt="Web API"/>
+</p>
+
 
 
 # 📊 GitHub Stats
