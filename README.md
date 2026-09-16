@@ -28,25 +28,25 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) -->
 
 <h3 align="left">💻 Languages and Tools</h3>
-p align="left">
-  <!-- C# -->
-  <img src="https://shields.io" alt="C#"/>
-  <!-- .NET -->
-  <img src="https://shields.io" alt=".NET"/>
-  <!-- MS SQL Server -->
-  <img src="https://shields.io" alt="MS SQL Server"/>
-  <!-- EF Core -->
-  <img src="https://shields.io" alt="EF Core"/>
-</p>
+### 💻 Стек технологий & Инструменты
 
 <p align="left">
-  <!-- Git -->
+  <img src="https://shields.io" alt="C#"/>
+  <img src="https://shields.io" alt=".NET"/>
+  <img src="https://shields.io" alt="MS SQL Server"/>
+  <img src="https://shields.io" alt="EF Core"/>
   <img src="https://shields.io" alt="Git"/>
-  <!-- Docker -->
   <img src="https://shields.io" alt="Docker"/>
-  <!-- WebAPI -->
-  <img src="https://shields.io" alt="Web API"/>
 </p>
+
+---
+
+### 🎯 Профессиональные интересы и фокус
+
+* **Backend:** Проектирование REST API, чистая архитектура (Clean/Hexagonal Architecture), асинхронное программирование (`async/await`, `Task Parallel Library`).
+* **Databases:** Оптимизация сложных SQL-запросов, работа с индексами, транзакционность (ACID) в высоконагруженных финансовых системах, Entity Framework Core.
+* **Качество кода:** Написание поддерживаемого кода по принципам SOLID, покрытие бизнес-логики Unit-тестами (xUnit / Moq).
+
 
 
 
