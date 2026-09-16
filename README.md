@@ -27,27 +27,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) -->
 
-<h3 align="left">💻 Languages and Tools</h3>
+<h3 align="left">💻 Стек технологий и инструменты</h3>
 <p align="left">
-  <!-- C# -->
-  <img src="https://shields.io" alt="C#"/>
-  <!-- .NET -->
-  <img src="https://shields.io" alt=".NET"/>
-  <!-- MS SQL Server -->
-  <img src="https://shields.io" alt="MS SQL Server"/>
-  <!-- EF Core -->
-  <img src="https://shields.io" alt="EF Core"/>
+  <strong>Backend & Платформы:</strong> C#, .NET 8 / .NET 9, Web API (REST)<br>
+  <strong>Базы данных & ORM:</strong> Microsoft SQL Server, Entity Framework Core (EF Core), LINQ<br>
+  <strong>Инфраструктура & CI/CD:</strong> Git, Docker, Docker Compose<br>
+  <strong>Тестирование:</strong> xUnit, Unit-тесты, Mock-тестирование (Moq / NSubstitute)
 </p>
-
-<p align="left">
-  <!-- Git -->
-  <img src="https://shields.io" alt="Git"/>
-  <!-- Docker -->
-  <img src="https://shields.io" alt="Docker"/>
-  <!-- WebAPI -->
-  <img src="https://shields.io" alt="Web API"/>
-</p>
-
 
 ---
 
